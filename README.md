@@ -1,6 +1,6 @@
 # GDSC_Hackathon--Team_COOLTOO
 
-GDSC Hackathon 2024 Submission – Team COOLTOO
+GDSC Hackathon 2024 Prototype Submission – Team COOLTOO
 
 S.I.G.A.L.A (Smart Integrated Geo-Alert and Legal Assistance) is a web-based incident reporting and scheduling system designed to empower communities and barangay officials by streamlining local issue reporting and resolution.
 
